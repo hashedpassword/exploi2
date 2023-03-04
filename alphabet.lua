@@ -1,1 +1,1 @@
-return {["LETS RAPE HER"]="LЕТЅ RАРЕ НЕR",}
+return {["LETS RAPE HER"]="LЕТЅ RАРЕ НЕR",
